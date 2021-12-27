@@ -1,0 +1,40 @@
+{
+  "name": "Game NFT minted",
+  "description": "If you are the owner of this Game NFT, please submit your metadata following the instruction: https://github.com/Deblox-IO/deblox-onboarding-program.git",
+  "image": "https://static.deblox.io/images/arcade/games.png",
+  "attributes": [
+    {
+      "type": "Type",
+      "value": "HTML5"
+    },
+    {
+      "type": "Tags",
+      "value": "H5;P2E;GameFi;NFT;Slots"
+    },
+    {
+      "type": "Screenshot",
+      "value": "ipfs://QmP8VvpgGgFkxyBdEd4p7bxqmkZBZ4fHfdednuNfeK5tSL/arcade3.png"
+    },
+    {
+      "type": "Screenshot",
+      "value": "https://static.deblox.io/images/arcade/slot1.png"
+    },
+    {
+      "type": "Screenshot",
+      "value": "ipfs://QmP8VvpgGgFkxyBdEd4p7bxqmkZBZ4fHfdednuNfeK5tSL/arcade4.png"
+    },
+    {
+      "type": "URI",
+      "value": "https://games.deblox.io/arcade"
+    },
+    {
+      "type": "AppStore",
+      "value": "https://itunes.apple.com/xxx/id565859420"
+    },
+    {
+      "type": "PlayStore",
+      "value": "https://play.google.com/store/apps/details?id=xxx&hl=en"
+    }
+  ],
+  "compiler": "Deblox Studio"
+}
