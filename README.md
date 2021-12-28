@@ -17,11 +17,12 @@ Being a Deblox Game will have multiple benefits, for example:
 * Deblox team will review the application and get back within 1-3 business days.
 * You'll be able to update the info anytime per PR approved
 
-## Beta Rules (To be updated periodically and transferred ownership to Deblox DAO in future)
+## Rules 
 * You'll be asked to sign a message using your crypto wallet to proof the ownership 
 * Follow the steps mentioned above and restrict your changes with precise words in simple English and high quality images 
-* The image should be in PNG format, with 560*420 pixels or bigger, both HTTPS or IPFS cloud storage are supported.
+* The image should be in PNG format, with 640*360 pixels or bigger, both HTTPS or IPFS cloud storage are supported.
 * Respect each others, if any malicious commits or misbehavior occurs, the Deblox team reserves the right to block your metadata, and further game onboarding process
+* Please note the Rules are subjected to be changed and transferred ownership to Deblox DAO in future
 
 ## Contact us
 Deblox P2E Alliance is happy to answer your questions regarding this onboarding program
