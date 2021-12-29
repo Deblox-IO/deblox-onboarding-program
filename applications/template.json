@@ -34,6 +34,18 @@
     {
       "type": "PlayStore",
       "value": "https://play.google.com/store/apps/details?id=xxx&hl=en"
+    },
+    {
+        "type": "Telegram",
+        "value": "https://t.me/xxx"
+    },
+    {
+        "type": "Discord",
+        "value": "https://discord.com/invite/xxx"
+    },
+    {
+        "type": "Medium",
+        "value": "https://medium.com/@xxx"
     }
   ],
   "compiler": "Deblox Studio"
