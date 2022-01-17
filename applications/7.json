@@ -1,0 +1,55 @@
+{
+    "name": "Atlantic Frenzy",
+    "description": "Atlantic Frenzy brings the popular arcade fishing game to your mobile devices with Play to Earn! Engage in the one-of-a-kind PvP mode with your friends and compete to be king of the seas! Play to Earn - Earn currencies by hunting fishes and treasures! PvP Battle – Compete against your friends and find out who the superior fisher is. Boss Fishes – Experience the exhilaration of coming face to face with captivating Boss Fishes and get rewarded handsomely for successfully capturing one! Special Fishes – Unique creatures like Vortex Fishes and Bomb Crabs offer exciting ways to fish.",
+    "image": "https://static.deblox.io/third-parties/af/Atlantic-Frenzy.jpeg",
+    "edition": 1,
+    "date": 1642080105,
+    "owner": "",
+    "attributes": [
+        {
+            "type": "Type",
+            "value": "Mobile"
+        },
+        {
+            "type": "Tags",
+            "value": "Android;iOS;P2E;GameFi;NFT;Fishing"
+        },
+        {
+            "type": "Screenshot",
+            "value": "https://static.deblox.io/third-parties/af/Atlantic-Frenzy1.jpeg"
+        },
+        {
+            "type": "Screenshot",
+            "value": "https://static.deblox.io/third-parties/af/Atlantic-Frenzy2.jpeg"
+        },
+        {
+            "type": "Screenshot",
+            "value": "https://static.deblox.io/third-parties/af/Atlantic-Frenzy3.jpeg"
+        },
+        {
+            "type": "URI",
+            "value": ""
+        },
+        {
+            "type": "AppStore",
+            "value": ""
+        },
+        {
+            "type": "PlayStore",
+            "value": ""
+        },
+        {
+            "type": "Telegram",
+            "value": ""
+        },
+        {
+            "type": "Discord",
+            "value": ""
+        },
+        {
+            "type": "Medium",
+            "value": ""
+        }
+    ],
+    "compiler": "Deblox Studio"
+}
