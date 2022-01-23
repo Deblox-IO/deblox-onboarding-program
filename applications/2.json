@@ -1,0 +1,59 @@
+{
+  "name": "Animal Racing",
+  "description": "A fun game for play any where! You can play with your friends, watch whose animal will win! Play to Earn - Earn currencies by analyze and guess which animal will be champion!",
+  "image": "https://storage.googleapis.com/ttcdn/deblox/deblox-zodiac-racing-1-min.jpg",
+  "edition": 1,
+  "date": 1642880664,
+  "owner": "Elotus Studio",
+  "attributes": [
+    {
+      "type": "Type",
+      "value": "Mobile"
+    },
+    {
+      "type": "Type",
+      "value": "HTML"
+    },
+    {
+      "type": "Tags",
+      "value": "Android;iOS;HTML5;P2E;GameFi;NFT;Racing"
+    },
+    {
+      "type": "Screenshot",
+      "value": "https://storage.googleapis.com/ttcdn/deblox/deblox-zodiac-racing-2-min.jpg"
+    },
+    {
+      "type": "Screenshot",
+      "value": "https://storage.googleapis.com/ttcdn/deblox/deblox-zodiac-racing-3-min.jpg"
+    },
+    {
+      "type": "Screenshot",
+      "value": "https://storage.googleapis.com/ttcdn/deblox/deblox-zodiac-racing-4-min.jpg"
+    },
+    {
+      "type": "URI",
+      "value": ""
+    },
+    {
+      "type": "AppStore",
+      "value": ""
+    },
+    {
+      "type": "PlayStore",
+      "value": ""
+    },
+    {
+      "type": "Telegram",
+      "value": ""
+    },
+    {
+      "type": "Discord",
+      "value": ""
+    },
+    {
+      "type": "Medium",
+      "value": ""
+    }
+  ],
+  "compiler": "Elotus Studio"
+}
